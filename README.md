@@ -1,2 +1,5 @@
 # Clementi_Galloway_midterm
-This is Luci and Matt's Midterm project for MMED-1054
+Which "football" is the Superior Sport?
+
+This is the ReadMe for our argument on which "football" is superior.
+It is up to you too decide which is the real football after reading our arguments on the index page. 
